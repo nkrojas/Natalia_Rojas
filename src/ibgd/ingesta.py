@@ -2,6 +2,7 @@ import requests
 import json
 import sqlite3
 import pandas as pd  # Importa la biblioteca pandas
+import os
 
 class ingesta:
     def __init__(self):
@@ -9,6 +10,10 @@ class ingesta:
         self.db = "src/ibgd/static/db/disney.db"
         self.csv = "src/ibgd/static/csv/disney.csv"
         self.auditoria = "src/ibgd/static/auditoria/auditoria.txt"
+        
+        os.makedirs(os.path.dirname(self.db), exist_ok=True)
+        os.makedirs(os.path.dirname(self.csv), exist_ok=True)
+        os.makedirs(os.path.dirname(self.auditoria), exist_ok=True)
 
     def obtener_datos_api(self, url):
         try:
