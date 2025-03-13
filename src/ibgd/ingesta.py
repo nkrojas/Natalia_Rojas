@@ -11,16 +11,6 @@ class ingesta:
         self.csv = os.path.join(self.ruta_estatica, "csv", "disney.csv")
         self.auditoria = os.path.join(self.ruta_estatica, "auditoria", "auditoria.txt")
 
-        os.makedirs(os.path.dirname(self.db), exist_ok=True)
-        os.makedirs(os.path.dirname(self.csv), exist_ok=True)
-        os.makedirs(os.path.dirname(self.auditoria), exist_ok=True)
-
-        try:
-            os.makedirs(os.path.dirname(self.db), exist_ok=True)  # Crea la carpeta si no existe
-            print("Carpeta creada correctamente.")
-        except PermissionError:
-            print("Error: No tienes permisos para crear la carpeta.")
-
     def obtener_datos_api(self, url):
         try:
             response = requests.get(url)
