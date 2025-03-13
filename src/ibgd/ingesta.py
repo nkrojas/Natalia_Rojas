@@ -6,14 +6,20 @@ import os
 
 class ingesta:
     def __init__(self):
-        self.ruta_estatica = "src/ibgd/static/"
-        self.db = "src/ibgd/static/db/disney.db"
-        self.csv = "src/ibgd/static/csv/disney.csv"
-        self.auditoria = "src/ibgd/static/auditoria/auditoria.txt"
-        
+        self.ruta_estatica = os.path.join("src", "ibgd", "static")
+        self.db = os.path.join(self.ruta_estatica, "db", "disney.db")
+        self.csv = os.path.join(self.ruta_estatica, "csv", "disney.csv")
+        self.auditoria = os.path.join(self.ruta_estatica, "auditoria", "auditoria.txt")
+
         os.makedirs(os.path.dirname(self.db), exist_ok=True)
         os.makedirs(os.path.dirname(self.csv), exist_ok=True)
         os.makedirs(os.path.dirname(self.auditoria), exist_ok=True)
+
+        try:
+            os.makedirs(os.path.dirname(self.db), exist_ok=True)  # Crea la carpeta si no existe
+            print("Carpeta creada correctamente.")
+        except PermissionError:
+            print("Error: No tienes permisos para crear la carpeta.")
 
     def obtener_datos_api(self, url):
         try:
