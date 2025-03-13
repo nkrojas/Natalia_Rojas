@@ -27,10 +27,12 @@ jobs:
         run: pip install --upgrade pip
       - name: paso4 - instalar dependencias
         run: pip install -e .
-      - name: Configurar permisos de escritura
+      - name: Configurar directorios y permisos
+        shell: powershell
         run: |
-              mkdir -p src/ibgd/static/db src/ibgd/static/csv src/ibgd/static/auditoria
-              chmod -R 777 src/ibgd/static/
+          if (!(Test-Path -Path src\ibgd\static\db)) { New-Item -ItemType Directory -Path src\ibgd\static\db }
+          if (!(Test-Path -Path src\ibgd\static\csv)) { New-Item -ItemType Directory -Path src\ibgd\static\csv }
+          if (!(Test-Path -Path src\ibgd\static\auditoria)) { New-Item -ItemType Directory -Path src\ibgd\static\auditoria }
       - name: paso5 - Ejecutar ingesta
         run: python src/ibgd/ingesta.py
 
