@@ -2,10 +2,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
-src/ibgd/static/auditoria/*.txt
-src/ibgd/static/csv/*.csv
-src/ibgd/static/db/*.db
-src/ibgd/static/db/*.sqlite3
 # C extensions
 *.so
 
