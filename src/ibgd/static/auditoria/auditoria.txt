@@ -1,0 +1,5 @@
+Total registros obtenidos del API: 50
+Total registros insertados en SQLite: 50
+Total registros ya existentes en SQLite: 0
+Total registros en CSV: 50
+Los datos fueron almacenados correctamente.
