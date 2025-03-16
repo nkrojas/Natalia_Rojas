@@ -27,14 +27,10 @@ jobs:
         run: pip install --upgrade pip
       - name: paso4 - instalar dependencias
         run: pip install -e .
-      - name: Configurar directorios y permisos
-        shell: powershell
-        run: |
-          if (!(Test-Path -Path src\ibgd\static\db)) { New-Item -ItemType Directory -Path src\ibgd\static\db }
-          if (!(Test-Path -Path src\ibgd\static\csv)) { New-Item -ItemType Directory -Path src\ibgd\static\csv }
-          if (!(Test-Path -Path src\ibgd\static\auditoria)) { New-Item -ItemType Directory -Path src\ibgd\static\auditoria }
       - name: paso5 - Ejecutar ingesta
         run: python src/ibgd/ingesta.py
+      - name: paso6 - Ejecutar cleaning
+        run: python src/ibgd/cleaning.py
 
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
