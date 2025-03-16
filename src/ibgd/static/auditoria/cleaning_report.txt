@@ -1,0 +1,12 @@
+Análisis Inicial:
+Total de registros: 400
+Duplicados: 350
+Valores nulos: {'id': 0, 'name': 0, 'films': 0, 'tvShows': 0}
+Tipos de datos: {'id': dtype('int64'), 'name': dtype('O'), 'films': dtype('O'), 'tvShows': dtype('O')}
+
+Total de registros después de limpieza: 50
+
+Transformaciones realizadas:
+- Eliminación de duplicados
+- Manejo de valores nulos
+- Corrección de tipos de datos
