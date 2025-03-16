@@ -1,6 +1,6 @@
 Análisis Inicial:
-Total de registros: 400
-Duplicados: 350
+Total de registros: 450
+Duplicados: 400
 Valores nulos: {'id': 0, 'name': 0, 'films': 0, 'tvShows': 0}
 Tipos de datos: {'id': dtype('int64'), 'name': dtype('O'), 'films': dtype('O'), 'tvShows': dtype('O')}
 
