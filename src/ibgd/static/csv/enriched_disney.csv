@@ -1,0 +1,501 @@
+id,name,films,tvShows,createdAt,updatedAt,url
+112,Achilles,Hercules (film),Hercules (TV series),2021-04-12T01:31:30.547Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/112
+18,Abigail the Cow,"The Fox and the Hound, The Fox and the Hound 2",,2021-04-12T01:26:03.413Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/18
+16,Abdullah,Cheetah,,2021-04-12T01:26:02.377Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/16
+45,Admiral Boom and Mr. Binnacle,"Mary Poppins (film), Mary Poppins Returns",,2021-04-12T01:26:21.560Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/45
+7,.GIFfany,,Gravity Falls,2021-04-12T01:25:10.354Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/7
+12,90's Adventure Bear,,Pickle and Peanut,2021-04-12T01:26:00.335Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/12
+36,Candace Adams,,K.C. Undercover,2021-04-12T01:26:16.062Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/36
+139,Ahadi,"The Lion King, The Lion King (2019 film)",,2021-04-12T01:31:47.129Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/139
+152,Al Muddy Sultan,,Aladdin (TV series),2021-04-12T01:31:55.281Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/152
+181,Irwina Allen,,Chip 'n Dale Rescue Rangers,2021-04-12T01:32:15.300Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/181
+204,Ambrose,"The Robber Kitten, Mickey's Polo Team",,2021-04-12T01:32:29.083Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/204
+215,Amos,Ben and Me,,2021-04-12T01:32:35.677Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/215
+293,Arabella,,,2021-04-12T01:33:24.447Z,2021-04-12T01:33:24.447Z,https://api.disneyapi.dev/characters/293
+295,Arabella Smith,,,2021-04-12T01:33:25.599Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/295
+310,Queen Ariel,,DuckTales,2021-04-12T01:33:35.898Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/310
+327,Arthur and Cecil,,Jungle Cubs,2021-04-12T01:33:46.377Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/327
+336,Fiona Ashbury,,Fillmore!,2021-04-12T01:33:51.824Z,2021-12-20T20:39:20.363Z,https://api.disneyapi.dev/characters/336
+337,Ashcan and Pete,Homeward Bound II: Lost in San Francisco,,2021-04-12T01:33:52.329Z,2021-12-20T20:39:20.363Z,https://api.disneyapi.dev/characters/337
+342,Aspen,Bedtime Stories,,2021-04-12T01:33:56.674Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/342
+347,Astuto,,The Lion Guard,2021-04-12T01:33:59.743Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/347
+350,Athena,Tomorrowland (film),,2021-04-12T01:34:01.400Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/350
+364,Aunt Em,Return to Oz,Once Upon a Time,2021-04-12T01:34:11.118Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/364
+380,Aviarius,,Kim Possible,2021-04-12T01:34:21.583Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/380
+384,Prince Axel,,,2021-04-12T01:34:23.830Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/384
+404,Butter Otter,,PB&J Otter,2021-04-12T01:34:35.674Z,2021-12-20T20:39:21.335Z,https://api.disneyapi.dev/characters/404
+410,Baby Panda,,Timon & Pumbaa,2021-04-12T01:34:38.957Z,2021-12-20T20:39:21.335Z,https://api.disneyapi.dev/characters/410
+440,Marta Balatico,,Mackenzie Falls,2021-04-12T01:34:56.629Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/440
+442,Mr. Baldwin,,Fish Hooks,2021-04-12T01:34:57.806Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/442
+450,Baloo,"The Jungle Book, The Jungle Book 2, Rudyard Kipling's The Jungle Book, The Jungle Book: Mowgli's Story, Mickey's Magical Christmas: Snowed in at the House of Mouse, Mickey's House of Villains, The Lion King 1½, Meet the Robinsons, The Jungle Book (2016 film)","The Mouse Factory, TaleSpin, Raw Toonage, Aladdin (TV series), Jungle Cubs, House of Mouse, DuckTales (2017 series)",2021-04-12T01:35:02.338Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/450
+469,Michael Banks,"Mary Poppins (film), Mary Poppins Returns",,2021-04-12T01:35:13.656Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/469
+474,Banshee,,Chip 'n Dale Rescue Rangers,2021-04-12T01:35:16.266Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/474
+490,Baron Blitz,,Teamo Supremo,2021-04-12T01:35:26.026Z,2021-12-20T20:39:22.406Z,https://api.disneyapi.dev/characters/490
+500,Sir Bart,The Sword in the Stone,,2021-04-12T01:35:31.366Z,2021-12-20T20:39:22.406Z,https://api.disneyapi.dev/characters/500
+529,Bernice Beachmont,,Fillmore!,2021-04-12T01:35:48.740Z,2021-12-20T20:39:22.407Z,https://api.disneyapi.dev/characters/529
+543,Beardini the Pirate Magician,,Jake and the Never Land Pirates,2021-04-12T01:35:57.020Z,2021-12-20T20:39:23.086Z,https://api.disneyapi.dev/characters/543
+566,Beheaded Knight,The Haunted Mansion (film),,2021-04-12T01:36:13.468Z,2021-12-20T20:39:23.086Z,https://api.disneyapi.dev/characters/566
+157,Alan Coleman,Freaky Friday (2003 film),,2021-04-12T01:31:58.659Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/157
+189,Alma,,Doc McStuffins,2021-04-12T01:32:19.873Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/189
+206,Captain Amelia,Treasure Planet,,2021-04-12T01:32:30.244Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/206
+207,Amelia Duckworth,,,2021-04-12T01:32:30.828Z,2021-04-12T01:32:30.828Z,https://api.disneyapi.dev/characters/207
+223,Captain Anderson,The Cat from Outer Space,,2021-04-12T01:32:40.186Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/223
+241,Erica Ange,,,2021-04-12T01:32:50.879Z,2021-12-20T20:39:19.912Z,https://api.disneyapi.dev/characters/241
+247,Angela,,Fish Hooks,2021-04-12T01:32:54.541Z,2021-12-20T20:39:19.912Z,https://api.disneyapi.dev/characters/247
+268,Anthony Biddle,The Happiest Millionaire,,2021-04-12T01:33:08.833Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/268
+278,Apaches,Savage Sam,,2021-04-12T01:33:14.678Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/278
+285,Apothecary Gary,,Amphibia,2021-04-12T01:33:18.798Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/285
+291,Aqua,,,2021-04-12T01:33:23.402Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/291
+303,Archibald Smelding,,,2021-04-12T01:33:30.627Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/303
+322,Mr. Arrow,Treasure Planet,,2021-04-12T01:33:43.750Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/322
+351,Queen Athena,"The Little Mermaid: Ariel's Beginning, The Little Mermaid (live-action film)",,2021-04-12T01:34:01.940Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/351
+112,Achilles,Hercules (film),Hercules (TV series),2021-04-12T01:31:30.547Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/112
+18,Abigail the Cow,"The Fox and the Hound, The Fox and the Hound 2",,2021-04-12T01:26:03.413Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/18
+16,Abdullah,Cheetah,,2021-04-12T01:26:02.377Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/16
+45,Admiral Boom and Mr. Binnacle,"Mary Poppins (film), Mary Poppins Returns",,2021-04-12T01:26:21.560Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/45
+7,.GIFfany,,Gravity Falls,2021-04-12T01:25:10.354Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/7
+12,90's Adventure Bear,,Pickle and Peanut,2021-04-12T01:26:00.335Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/12
+36,Candace Adams,,K.C. Undercover,2021-04-12T01:26:16.062Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/36
+139,Ahadi,"The Lion King, The Lion King (2019 film)",,2021-04-12T01:31:47.129Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/139
+152,Al Muddy Sultan,,Aladdin (TV series),2021-04-12T01:31:55.281Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/152
+181,Irwina Allen,,Chip 'n Dale Rescue Rangers,2021-04-12T01:32:15.300Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/181
+204,Ambrose,"The Robber Kitten, Mickey's Polo Team",,2021-04-12T01:32:29.083Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/204
+215,Amos,Ben and Me,,2021-04-12T01:32:35.677Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/215
+293,Arabella,,,2021-04-12T01:33:24.447Z,2021-04-12T01:33:24.447Z,https://api.disneyapi.dev/characters/293
+295,Arabella Smith,,,2021-04-12T01:33:25.599Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/295
+310,Queen Ariel,,DuckTales,2021-04-12T01:33:35.898Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/310
+327,Arthur and Cecil,,Jungle Cubs,2021-04-12T01:33:46.377Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/327
+336,Fiona Ashbury,,Fillmore!,2021-04-12T01:33:51.824Z,2021-12-20T20:39:20.363Z,https://api.disneyapi.dev/characters/336
+337,Ashcan and Pete,Homeward Bound II: Lost in San Francisco,,2021-04-12T01:33:52.329Z,2021-12-20T20:39:20.363Z,https://api.disneyapi.dev/characters/337
+342,Aspen,Bedtime Stories,,2021-04-12T01:33:56.674Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/342
+347,Astuto,,The Lion Guard,2021-04-12T01:33:59.743Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/347
+350,Athena,Tomorrowland (film),,2021-04-12T01:34:01.400Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/350
+364,Aunt Em,Return to Oz,Once Upon a Time,2021-04-12T01:34:11.118Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/364
+380,Aviarius,,Kim Possible,2021-04-12T01:34:21.583Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/380
+384,Prince Axel,,,2021-04-12T01:34:23.830Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/384
+404,Butter Otter,,PB&J Otter,2021-04-12T01:34:35.674Z,2021-12-20T20:39:21.335Z,https://api.disneyapi.dev/characters/404
+410,Baby Panda,,Timon & Pumbaa,2021-04-12T01:34:38.957Z,2021-12-20T20:39:21.335Z,https://api.disneyapi.dev/characters/410
+440,Marta Balatico,,Mackenzie Falls,2021-04-12T01:34:56.629Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/440
+442,Mr. Baldwin,,Fish Hooks,2021-04-12T01:34:57.806Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/442
+450,Baloo,"The Jungle Book, The Jungle Book 2, Rudyard Kipling's The Jungle Book, The Jungle Book: Mowgli's Story, Mickey's Magical Christmas: Snowed in at the House of Mouse, Mickey's House of Villains, The Lion King 1½, Meet the Robinsons, The Jungle Book (2016 film)","The Mouse Factory, TaleSpin, Raw Toonage, Aladdin (TV series), Jungle Cubs, House of Mouse, DuckTales (2017 series)",2021-04-12T01:35:02.338Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/450
+469,Michael Banks,"Mary Poppins (film), Mary Poppins Returns",,2021-04-12T01:35:13.656Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/469
+474,Banshee,,Chip 'n Dale Rescue Rangers,2021-04-12T01:35:16.266Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/474
+490,Baron Blitz,,Teamo Supremo,2021-04-12T01:35:26.026Z,2021-12-20T20:39:22.406Z,https://api.disneyapi.dev/characters/490
+500,Sir Bart,The Sword in the Stone,,2021-04-12T01:35:31.366Z,2021-12-20T20:39:22.406Z,https://api.disneyapi.dev/characters/500
+529,Bernice Beachmont,,Fillmore!,2021-04-12T01:35:48.740Z,2021-12-20T20:39:22.407Z,https://api.disneyapi.dev/characters/529
+543,Beardini the Pirate Magician,,Jake and the Never Land Pirates,2021-04-12T01:35:57.020Z,2021-12-20T20:39:23.086Z,https://api.disneyapi.dev/characters/543
+566,Beheaded Knight,The Haunted Mansion (film),,2021-04-12T01:36:13.468Z,2021-12-20T20:39:23.086Z,https://api.disneyapi.dev/characters/566
+157,Alan Coleman,Freaky Friday (2003 film),,2021-04-12T01:31:58.659Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/157
+189,Alma,,Doc McStuffins,2021-04-12T01:32:19.873Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/189
+206,Captain Amelia,Treasure Planet,,2021-04-12T01:32:30.244Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/206
+207,Amelia Duckworth,,,2021-04-12T01:32:30.828Z,2021-04-12T01:32:30.828Z,https://api.disneyapi.dev/characters/207
+223,Captain Anderson,The Cat from Outer Space,,2021-04-12T01:32:40.186Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/223
+241,Erica Ange,,,2021-04-12T01:32:50.879Z,2021-12-20T20:39:19.912Z,https://api.disneyapi.dev/characters/241
+247,Angela,,Fish Hooks,2021-04-12T01:32:54.541Z,2021-12-20T20:39:19.912Z,https://api.disneyapi.dev/characters/247
+268,Anthony Biddle,The Happiest Millionaire,,2021-04-12T01:33:08.833Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/268
+278,Apaches,Savage Sam,,2021-04-12T01:33:14.678Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/278
+285,Apothecary Gary,,Amphibia,2021-04-12T01:33:18.798Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/285
+291,Aqua,,,2021-04-12T01:33:23.402Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/291
+303,Archibald Smelding,,,2021-04-12T01:33:30.627Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/303
+322,Mr. Arrow,Treasure Planet,,2021-04-12T01:33:43.750Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/322
+351,Queen Athena,"The Little Mermaid: Ariel's Beginning, The Little Mermaid (live-action film)",,2021-04-12T01:34:01.940Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/351
+112,Achilles,Hercules (film),Hercules (TV series),2021-04-12T01:31:30.547Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/112
+18,Abigail the Cow,"The Fox and the Hound, The Fox and the Hound 2",,2021-04-12T01:26:03.413Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/18
+16,Abdullah,Cheetah,,2021-04-12T01:26:02.377Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/16
+45,Admiral Boom and Mr. Binnacle,"Mary Poppins (film), Mary Poppins Returns",,2021-04-12T01:26:21.560Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/45
+7,.GIFfany,,Gravity Falls,2021-04-12T01:25:10.354Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/7
+12,90's Adventure Bear,,Pickle and Peanut,2021-04-12T01:26:00.335Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/12
+36,Candace Adams,,K.C. Undercover,2021-04-12T01:26:16.062Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/36
+139,Ahadi,"The Lion King, The Lion King (2019 film)",,2021-04-12T01:31:47.129Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/139
+152,Al Muddy Sultan,,Aladdin (TV series),2021-04-12T01:31:55.281Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/152
+181,Irwina Allen,,Chip 'n Dale Rescue Rangers,2021-04-12T01:32:15.300Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/181
+204,Ambrose,"The Robber Kitten, Mickey's Polo Team",,2021-04-12T01:32:29.083Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/204
+215,Amos,Ben and Me,,2021-04-12T01:32:35.677Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/215
+293,Arabella,,,2021-04-12T01:33:24.447Z,2021-04-12T01:33:24.447Z,https://api.disneyapi.dev/characters/293
+295,Arabella Smith,,,2021-04-12T01:33:25.599Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/295
+310,Queen Ariel,,DuckTales,2021-04-12T01:33:35.898Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/310
+327,Arthur and Cecil,,Jungle Cubs,2021-04-12T01:33:46.377Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/327
+336,Fiona Ashbury,,Fillmore!,2021-04-12T01:33:51.824Z,2021-12-20T20:39:20.363Z,https://api.disneyapi.dev/characters/336
+337,Ashcan and Pete,Homeward Bound II: Lost in San Francisco,,2021-04-12T01:33:52.329Z,2021-12-20T20:39:20.363Z,https://api.disneyapi.dev/characters/337
+342,Aspen,Bedtime Stories,,2021-04-12T01:33:56.674Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/342
+347,Astuto,,The Lion Guard,2021-04-12T01:33:59.743Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/347
+350,Athena,Tomorrowland (film),,2021-04-12T01:34:01.400Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/350
+364,Aunt Em,Return to Oz,Once Upon a Time,2021-04-12T01:34:11.118Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/364
+380,Aviarius,,Kim Possible,2021-04-12T01:34:21.583Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/380
+384,Prince Axel,,,2021-04-12T01:34:23.830Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/384
+404,Butter Otter,,PB&J Otter,2021-04-12T01:34:35.674Z,2021-12-20T20:39:21.335Z,https://api.disneyapi.dev/characters/404
+410,Baby Panda,,Timon & Pumbaa,2021-04-12T01:34:38.957Z,2021-12-20T20:39:21.335Z,https://api.disneyapi.dev/characters/410
+440,Marta Balatico,,Mackenzie Falls,2021-04-12T01:34:56.629Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/440
+442,Mr. Baldwin,,Fish Hooks,2021-04-12T01:34:57.806Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/442
+450,Baloo,"The Jungle Book, The Jungle Book 2, Rudyard Kipling's The Jungle Book, The Jungle Book: Mowgli's Story, Mickey's Magical Christmas: Snowed in at the House of Mouse, Mickey's House of Villains, The Lion King 1½, Meet the Robinsons, The Jungle Book (2016 film)","The Mouse Factory, TaleSpin, Raw Toonage, Aladdin (TV series), Jungle Cubs, House of Mouse, DuckTales (2017 series)",2021-04-12T01:35:02.338Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/450
+469,Michael Banks,"Mary Poppins (film), Mary Poppins Returns",,2021-04-12T01:35:13.656Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/469
+474,Banshee,,Chip 'n Dale Rescue Rangers,2021-04-12T01:35:16.266Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/474
+490,Baron Blitz,,Teamo Supremo,2021-04-12T01:35:26.026Z,2021-12-20T20:39:22.406Z,https://api.disneyapi.dev/characters/490
+500,Sir Bart,The Sword in the Stone,,2021-04-12T01:35:31.366Z,2021-12-20T20:39:22.406Z,https://api.disneyapi.dev/characters/500
+529,Bernice Beachmont,,Fillmore!,2021-04-12T01:35:48.740Z,2021-12-20T20:39:22.407Z,https://api.disneyapi.dev/characters/529
+543,Beardini the Pirate Magician,,Jake and the Never Land Pirates,2021-04-12T01:35:57.020Z,2021-12-20T20:39:23.086Z,https://api.disneyapi.dev/characters/543
+566,Beheaded Knight,The Haunted Mansion (film),,2021-04-12T01:36:13.468Z,2021-12-20T20:39:23.086Z,https://api.disneyapi.dev/characters/566
+157,Alan Coleman,Freaky Friday (2003 film),,2021-04-12T01:31:58.659Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/157
+189,Alma,,Doc McStuffins,2021-04-12T01:32:19.873Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/189
+206,Captain Amelia,Treasure Planet,,2021-04-12T01:32:30.244Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/206
+207,Amelia Duckworth,,,2021-04-12T01:32:30.828Z,2021-04-12T01:32:30.828Z,https://api.disneyapi.dev/characters/207
+223,Captain Anderson,The Cat from Outer Space,,2021-04-12T01:32:40.186Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/223
+241,Erica Ange,,,2021-04-12T01:32:50.879Z,2021-12-20T20:39:19.912Z,https://api.disneyapi.dev/characters/241
+247,Angela,,Fish Hooks,2021-04-12T01:32:54.541Z,2021-12-20T20:39:19.912Z,https://api.disneyapi.dev/characters/247
+268,Anthony Biddle,The Happiest Millionaire,,2021-04-12T01:33:08.833Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/268
+278,Apaches,Savage Sam,,2021-04-12T01:33:14.678Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/278
+285,Apothecary Gary,,Amphibia,2021-04-12T01:33:18.798Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/285
+291,Aqua,,,2021-04-12T01:33:23.402Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/291
+303,Archibald Smelding,,,2021-04-12T01:33:30.627Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/303
+322,Mr. Arrow,Treasure Planet,,2021-04-12T01:33:43.750Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/322
+351,Queen Athena,"The Little Mermaid: Ariel's Beginning, The Little Mermaid (live-action film)",,2021-04-12T01:34:01.940Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/351
+112,Achilles,Hercules (film),Hercules (TV series),2021-04-12T01:31:30.547Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/112
+18,Abigail the Cow,"The Fox and the Hound, The Fox and the Hound 2",,2021-04-12T01:26:03.413Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/18
+16,Abdullah,Cheetah,,2021-04-12T01:26:02.377Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/16
+45,Admiral Boom and Mr. Binnacle,"Mary Poppins (film), Mary Poppins Returns",,2021-04-12T01:26:21.560Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/45
+7,.GIFfany,,Gravity Falls,2021-04-12T01:25:10.354Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/7
+12,90's Adventure Bear,,Pickle and Peanut,2021-04-12T01:26:00.335Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/12
+36,Candace Adams,,K.C. Undercover,2021-04-12T01:26:16.062Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/36
+139,Ahadi,"The Lion King, The Lion King (2019 film)",,2021-04-12T01:31:47.129Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/139
+152,Al Muddy Sultan,,Aladdin (TV series),2021-04-12T01:31:55.281Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/152
+181,Irwina Allen,,Chip 'n Dale Rescue Rangers,2021-04-12T01:32:15.300Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/181
+204,Ambrose,"The Robber Kitten, Mickey's Polo Team",,2021-04-12T01:32:29.083Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/204
+215,Amos,Ben and Me,,2021-04-12T01:32:35.677Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/215
+293,Arabella,,,2021-04-12T01:33:24.447Z,2021-04-12T01:33:24.447Z,https://api.disneyapi.dev/characters/293
+295,Arabella Smith,,,2021-04-12T01:33:25.599Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/295
+310,Queen Ariel,,DuckTales,2021-04-12T01:33:35.898Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/310
+327,Arthur and Cecil,,Jungle Cubs,2021-04-12T01:33:46.377Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/327
+336,Fiona Ashbury,,Fillmore!,2021-04-12T01:33:51.824Z,2021-12-20T20:39:20.363Z,https://api.disneyapi.dev/characters/336
+337,Ashcan and Pete,Homeward Bound II: Lost in San Francisco,,2021-04-12T01:33:52.329Z,2021-12-20T20:39:20.363Z,https://api.disneyapi.dev/characters/337
+342,Aspen,Bedtime Stories,,2021-04-12T01:33:56.674Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/342
+347,Astuto,,The Lion Guard,2021-04-12T01:33:59.743Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/347
+350,Athena,Tomorrowland (film),,2021-04-12T01:34:01.400Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/350
+364,Aunt Em,Return to Oz,Once Upon a Time,2021-04-12T01:34:11.118Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/364
+380,Aviarius,,Kim Possible,2021-04-12T01:34:21.583Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/380
+384,Prince Axel,,,2021-04-12T01:34:23.830Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/384
+404,Butter Otter,,PB&J Otter,2021-04-12T01:34:35.674Z,2021-12-20T20:39:21.335Z,https://api.disneyapi.dev/characters/404
+410,Baby Panda,,Timon & Pumbaa,2021-04-12T01:34:38.957Z,2021-12-20T20:39:21.335Z,https://api.disneyapi.dev/characters/410
+440,Marta Balatico,,Mackenzie Falls,2021-04-12T01:34:56.629Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/440
+442,Mr. Baldwin,,Fish Hooks,2021-04-12T01:34:57.806Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/442
+450,Baloo,"The Jungle Book, The Jungle Book 2, Rudyard Kipling's The Jungle Book, The Jungle Book: Mowgli's Story, Mickey's Magical Christmas: Snowed in at the House of Mouse, Mickey's House of Villains, The Lion King 1½, Meet the Robinsons, The Jungle Book (2016 film)","The Mouse Factory, TaleSpin, Raw Toonage, Aladdin (TV series), Jungle Cubs, House of Mouse, DuckTales (2017 series)",2021-04-12T01:35:02.338Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/450
+469,Michael Banks,"Mary Poppins (film), Mary Poppins Returns",,2021-04-12T01:35:13.656Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/469
+474,Banshee,,Chip 'n Dale Rescue Rangers,2021-04-12T01:35:16.266Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/474
+490,Baron Blitz,,Teamo Supremo,2021-04-12T01:35:26.026Z,2021-12-20T20:39:22.406Z,https://api.disneyapi.dev/characters/490
+500,Sir Bart,The Sword in the Stone,,2021-04-12T01:35:31.366Z,2021-12-20T20:39:22.406Z,https://api.disneyapi.dev/characters/500
+529,Bernice Beachmont,,Fillmore!,2021-04-12T01:35:48.740Z,2021-12-20T20:39:22.407Z,https://api.disneyapi.dev/characters/529
+543,Beardini the Pirate Magician,,Jake and the Never Land Pirates,2021-04-12T01:35:57.020Z,2021-12-20T20:39:23.086Z,https://api.disneyapi.dev/characters/543
+566,Beheaded Knight,The Haunted Mansion (film),,2021-04-12T01:36:13.468Z,2021-12-20T20:39:23.086Z,https://api.disneyapi.dev/characters/566
+157,Alan Coleman,Freaky Friday (2003 film),,2021-04-12T01:31:58.659Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/157
+189,Alma,,Doc McStuffins,2021-04-12T01:32:19.873Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/189
+206,Captain Amelia,Treasure Planet,,2021-04-12T01:32:30.244Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/206
+207,Amelia Duckworth,,,2021-04-12T01:32:30.828Z,2021-04-12T01:32:30.828Z,https://api.disneyapi.dev/characters/207
+223,Captain Anderson,The Cat from Outer Space,,2021-04-12T01:32:40.186Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/223
+241,Erica Ange,,,2021-04-12T01:32:50.879Z,2021-12-20T20:39:19.912Z,https://api.disneyapi.dev/characters/241
+247,Angela,,Fish Hooks,2021-04-12T01:32:54.541Z,2021-12-20T20:39:19.912Z,https://api.disneyapi.dev/characters/247
+268,Anthony Biddle,The Happiest Millionaire,,2021-04-12T01:33:08.833Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/268
+278,Apaches,Savage Sam,,2021-04-12T01:33:14.678Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/278
+285,Apothecary Gary,,Amphibia,2021-04-12T01:33:18.798Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/285
+291,Aqua,,,2021-04-12T01:33:23.402Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/291
+303,Archibald Smelding,,,2021-04-12T01:33:30.627Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/303
+322,Mr. Arrow,Treasure Planet,,2021-04-12T01:33:43.750Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/322
+351,Queen Athena,"The Little Mermaid: Ariel's Beginning, The Little Mermaid (live-action film)",,2021-04-12T01:34:01.940Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/351
+112,Achilles,Hercules (film),Hercules (TV series),2021-04-12T01:31:30.547Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/112
+18,Abigail the Cow,"The Fox and the Hound, The Fox and the Hound 2",,2021-04-12T01:26:03.413Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/18
+16,Abdullah,Cheetah,,2021-04-12T01:26:02.377Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/16
+45,Admiral Boom and Mr. Binnacle,"Mary Poppins (film), Mary Poppins Returns",,2021-04-12T01:26:21.560Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/45
+7,.GIFfany,,Gravity Falls,2021-04-12T01:25:10.354Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/7
+12,90's Adventure Bear,,Pickle and Peanut,2021-04-12T01:26:00.335Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/12
+36,Candace Adams,,K.C. Undercover,2021-04-12T01:26:16.062Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/36
+139,Ahadi,"The Lion King, The Lion King (2019 film)",,2021-04-12T01:31:47.129Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/139
+152,Al Muddy Sultan,,Aladdin (TV series),2021-04-12T01:31:55.281Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/152
+181,Irwina Allen,,Chip 'n Dale Rescue Rangers,2021-04-12T01:32:15.300Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/181
+204,Ambrose,"The Robber Kitten, Mickey's Polo Team",,2021-04-12T01:32:29.083Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/204
+215,Amos,Ben and Me,,2021-04-12T01:32:35.677Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/215
+293,Arabella,,,2021-04-12T01:33:24.447Z,2021-04-12T01:33:24.447Z,https://api.disneyapi.dev/characters/293
+295,Arabella Smith,,,2021-04-12T01:33:25.599Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/295
+310,Queen Ariel,,DuckTales,2021-04-12T01:33:35.898Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/310
+327,Arthur and Cecil,,Jungle Cubs,2021-04-12T01:33:46.377Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/327
+336,Fiona Ashbury,,Fillmore!,2021-04-12T01:33:51.824Z,2021-12-20T20:39:20.363Z,https://api.disneyapi.dev/characters/336
+337,Ashcan and Pete,Homeward Bound II: Lost in San Francisco,,2021-04-12T01:33:52.329Z,2021-12-20T20:39:20.363Z,https://api.disneyapi.dev/characters/337
+342,Aspen,Bedtime Stories,,2021-04-12T01:33:56.674Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/342
+347,Astuto,,The Lion Guard,2021-04-12T01:33:59.743Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/347
+350,Athena,Tomorrowland (film),,2021-04-12T01:34:01.400Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/350
+364,Aunt Em,Return to Oz,Once Upon a Time,2021-04-12T01:34:11.118Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/364
+380,Aviarius,,Kim Possible,2021-04-12T01:34:21.583Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/380
+384,Prince Axel,,,2021-04-12T01:34:23.830Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/384
+404,Butter Otter,,PB&J Otter,2021-04-12T01:34:35.674Z,2021-12-20T20:39:21.335Z,https://api.disneyapi.dev/characters/404
+410,Baby Panda,,Timon & Pumbaa,2021-04-12T01:34:38.957Z,2021-12-20T20:39:21.335Z,https://api.disneyapi.dev/characters/410
+440,Marta Balatico,,Mackenzie Falls,2021-04-12T01:34:56.629Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/440
+442,Mr. Baldwin,,Fish Hooks,2021-04-12T01:34:57.806Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/442
+450,Baloo,"The Jungle Book, The Jungle Book 2, Rudyard Kipling's The Jungle Book, The Jungle Book: Mowgli's Story, Mickey's Magical Christmas: Snowed in at the House of Mouse, Mickey's House of Villains, The Lion King 1½, Meet the Robinsons, The Jungle Book (2016 film)","The Mouse Factory, TaleSpin, Raw Toonage, Aladdin (TV series), Jungle Cubs, House of Mouse, DuckTales (2017 series)",2021-04-12T01:35:02.338Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/450
+469,Michael Banks,"Mary Poppins (film), Mary Poppins Returns",,2021-04-12T01:35:13.656Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/469
+474,Banshee,,Chip 'n Dale Rescue Rangers,2021-04-12T01:35:16.266Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/474
+490,Baron Blitz,,Teamo Supremo,2021-04-12T01:35:26.026Z,2021-12-20T20:39:22.406Z,https://api.disneyapi.dev/characters/490
+500,Sir Bart,The Sword in the Stone,,2021-04-12T01:35:31.366Z,2021-12-20T20:39:22.406Z,https://api.disneyapi.dev/characters/500
+529,Bernice Beachmont,,Fillmore!,2021-04-12T01:35:48.740Z,2021-12-20T20:39:22.407Z,https://api.disneyapi.dev/characters/529
+543,Beardini the Pirate Magician,,Jake and the Never Land Pirates,2021-04-12T01:35:57.020Z,2021-12-20T20:39:23.086Z,https://api.disneyapi.dev/characters/543
+566,Beheaded Knight,The Haunted Mansion (film),,2021-04-12T01:36:13.468Z,2021-12-20T20:39:23.086Z,https://api.disneyapi.dev/characters/566
+157,Alan Coleman,Freaky Friday (2003 film),,2021-04-12T01:31:58.659Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/157
+189,Alma,,Doc McStuffins,2021-04-12T01:32:19.873Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/189
+206,Captain Amelia,Treasure Planet,,2021-04-12T01:32:30.244Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/206
+207,Amelia Duckworth,,,2021-04-12T01:32:30.828Z,2021-04-12T01:32:30.828Z,https://api.disneyapi.dev/characters/207
+223,Captain Anderson,The Cat from Outer Space,,2021-04-12T01:32:40.186Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/223
+241,Erica Ange,,,2021-04-12T01:32:50.879Z,2021-12-20T20:39:19.912Z,https://api.disneyapi.dev/characters/241
+247,Angela,,Fish Hooks,2021-04-12T01:32:54.541Z,2021-12-20T20:39:19.912Z,https://api.disneyapi.dev/characters/247
+268,Anthony Biddle,The Happiest Millionaire,,2021-04-12T01:33:08.833Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/268
+278,Apaches,Savage Sam,,2021-04-12T01:33:14.678Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/278
+285,Apothecary Gary,,Amphibia,2021-04-12T01:33:18.798Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/285
+291,Aqua,,,2021-04-12T01:33:23.402Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/291
+303,Archibald Smelding,,,2021-04-12T01:33:30.627Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/303
+322,Mr. Arrow,Treasure Planet,,2021-04-12T01:33:43.750Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/322
+351,Queen Athena,"The Little Mermaid: Ariel's Beginning, The Little Mermaid (live-action film)",,2021-04-12T01:34:01.940Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/351
+112,Achilles,Hercules (film),Hercules (TV series),2021-04-12T01:31:30.547Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/112
+18,Abigail the Cow,"The Fox and the Hound, The Fox and the Hound 2",,2021-04-12T01:26:03.413Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/18
+16,Abdullah,Cheetah,,2021-04-12T01:26:02.377Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/16
+45,Admiral Boom and Mr. Binnacle,"Mary Poppins (film), Mary Poppins Returns",,2021-04-12T01:26:21.560Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/45
+7,.GIFfany,,Gravity Falls,2021-04-12T01:25:10.354Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/7
+12,90's Adventure Bear,,Pickle and Peanut,2021-04-12T01:26:00.335Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/12
+36,Candace Adams,,K.C. Undercover,2021-04-12T01:26:16.062Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/36
+139,Ahadi,"The Lion King, The Lion King (2019 film)",,2021-04-12T01:31:47.129Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/139
+152,Al Muddy Sultan,,Aladdin (TV series),2021-04-12T01:31:55.281Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/152
+181,Irwina Allen,,Chip 'n Dale Rescue Rangers,2021-04-12T01:32:15.300Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/181
+204,Ambrose,"The Robber Kitten, Mickey's Polo Team",,2021-04-12T01:32:29.083Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/204
+215,Amos,Ben and Me,,2021-04-12T01:32:35.677Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/215
+293,Arabella,,,2021-04-12T01:33:24.447Z,2021-04-12T01:33:24.447Z,https://api.disneyapi.dev/characters/293
+295,Arabella Smith,,,2021-04-12T01:33:25.599Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/295
+310,Queen Ariel,,DuckTales,2021-04-12T01:33:35.898Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/310
+327,Arthur and Cecil,,Jungle Cubs,2021-04-12T01:33:46.377Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/327
+336,Fiona Ashbury,,Fillmore!,2021-04-12T01:33:51.824Z,2021-12-20T20:39:20.363Z,https://api.disneyapi.dev/characters/336
+337,Ashcan and Pete,Homeward Bound II: Lost in San Francisco,,2021-04-12T01:33:52.329Z,2021-12-20T20:39:20.363Z,https://api.disneyapi.dev/characters/337
+342,Aspen,Bedtime Stories,,2021-04-12T01:33:56.674Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/342
+347,Astuto,,The Lion Guard,2021-04-12T01:33:59.743Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/347
+350,Athena,Tomorrowland (film),,2021-04-12T01:34:01.400Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/350
+364,Aunt Em,Return to Oz,Once Upon a Time,2021-04-12T01:34:11.118Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/364
+380,Aviarius,,Kim Possible,2021-04-12T01:34:21.583Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/380
+384,Prince Axel,,,2021-04-12T01:34:23.830Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/384
+404,Butter Otter,,PB&J Otter,2021-04-12T01:34:35.674Z,2021-12-20T20:39:21.335Z,https://api.disneyapi.dev/characters/404
+410,Baby Panda,,Timon & Pumbaa,2021-04-12T01:34:38.957Z,2021-12-20T20:39:21.335Z,https://api.disneyapi.dev/characters/410
+440,Marta Balatico,,Mackenzie Falls,2021-04-12T01:34:56.629Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/440
+442,Mr. Baldwin,,Fish Hooks,2021-04-12T01:34:57.806Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/442
+450,Baloo,"The Jungle Book, The Jungle Book 2, Rudyard Kipling's The Jungle Book, The Jungle Book: Mowgli's Story, Mickey's Magical Christmas: Snowed in at the House of Mouse, Mickey's House of Villains, The Lion King 1½, Meet the Robinsons, The Jungle Book (2016 film)","The Mouse Factory, TaleSpin, Raw Toonage, Aladdin (TV series), Jungle Cubs, House of Mouse, DuckTales (2017 series)",2021-04-12T01:35:02.338Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/450
+469,Michael Banks,"Mary Poppins (film), Mary Poppins Returns",,2021-04-12T01:35:13.656Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/469
+474,Banshee,,Chip 'n Dale Rescue Rangers,2021-04-12T01:35:16.266Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/474
+490,Baron Blitz,,Teamo Supremo,2021-04-12T01:35:26.026Z,2021-12-20T20:39:22.406Z,https://api.disneyapi.dev/characters/490
+500,Sir Bart,The Sword in the Stone,,2021-04-12T01:35:31.366Z,2021-12-20T20:39:22.406Z,https://api.disneyapi.dev/characters/500
+529,Bernice Beachmont,,Fillmore!,2021-04-12T01:35:48.740Z,2021-12-20T20:39:22.407Z,https://api.disneyapi.dev/characters/529
+543,Beardini the Pirate Magician,,Jake and the Never Land Pirates,2021-04-12T01:35:57.020Z,2021-12-20T20:39:23.086Z,https://api.disneyapi.dev/characters/543
+566,Beheaded Knight,The Haunted Mansion (film),,2021-04-12T01:36:13.468Z,2021-12-20T20:39:23.086Z,https://api.disneyapi.dev/characters/566
+157,Alan Coleman,Freaky Friday (2003 film),,2021-04-12T01:31:58.659Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/157
+189,Alma,,Doc McStuffins,2021-04-12T01:32:19.873Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/189
+206,Captain Amelia,Treasure Planet,,2021-04-12T01:32:30.244Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/206
+207,Amelia Duckworth,,,2021-04-12T01:32:30.828Z,2021-04-12T01:32:30.828Z,https://api.disneyapi.dev/characters/207
+223,Captain Anderson,The Cat from Outer Space,,2021-04-12T01:32:40.186Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/223
+241,Erica Ange,,,2021-04-12T01:32:50.879Z,2021-12-20T20:39:19.912Z,https://api.disneyapi.dev/characters/241
+247,Angela,,Fish Hooks,2021-04-12T01:32:54.541Z,2021-12-20T20:39:19.912Z,https://api.disneyapi.dev/characters/247
+268,Anthony Biddle,The Happiest Millionaire,,2021-04-12T01:33:08.833Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/268
+278,Apaches,Savage Sam,,2021-04-12T01:33:14.678Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/278
+285,Apothecary Gary,,Amphibia,2021-04-12T01:33:18.798Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/285
+291,Aqua,,,2021-04-12T01:33:23.402Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/291
+303,Archibald Smelding,,,2021-04-12T01:33:30.627Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/303
+322,Mr. Arrow,Treasure Planet,,2021-04-12T01:33:43.750Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/322
+351,Queen Athena,"The Little Mermaid: Ariel's Beginning, The Little Mermaid (live-action film)",,2021-04-12T01:34:01.940Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/351
+112,Achilles,Hercules (film),Hercules (TV series),2021-04-12T01:31:30.547Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/112
+18,Abigail the Cow,"The Fox and the Hound, The Fox and the Hound 2",,2021-04-12T01:26:03.413Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/18
+16,Abdullah,Cheetah,,2021-04-12T01:26:02.377Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/16
+45,Admiral Boom and Mr. Binnacle,"Mary Poppins (film), Mary Poppins Returns",,2021-04-12T01:26:21.560Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/45
+7,.GIFfany,,Gravity Falls,2021-04-12T01:25:10.354Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/7
+12,90's Adventure Bear,,Pickle and Peanut,2021-04-12T01:26:00.335Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/12
+36,Candace Adams,,K.C. Undercover,2021-04-12T01:26:16.062Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/36
+139,Ahadi,"The Lion King, The Lion King (2019 film)",,2021-04-12T01:31:47.129Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/139
+152,Al Muddy Sultan,,Aladdin (TV series),2021-04-12T01:31:55.281Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/152
+181,Irwina Allen,,Chip 'n Dale Rescue Rangers,2021-04-12T01:32:15.300Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/181
+204,Ambrose,"The Robber Kitten, Mickey's Polo Team",,2021-04-12T01:32:29.083Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/204
+215,Amos,Ben and Me,,2021-04-12T01:32:35.677Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/215
+293,Arabella,,,2021-04-12T01:33:24.447Z,2021-04-12T01:33:24.447Z,https://api.disneyapi.dev/characters/293
+295,Arabella Smith,,,2021-04-12T01:33:25.599Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/295
+310,Queen Ariel,,DuckTales,2021-04-12T01:33:35.898Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/310
+327,Arthur and Cecil,,Jungle Cubs,2021-04-12T01:33:46.377Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/327
+336,Fiona Ashbury,,Fillmore!,2021-04-12T01:33:51.824Z,2021-12-20T20:39:20.363Z,https://api.disneyapi.dev/characters/336
+337,Ashcan and Pete,Homeward Bound II: Lost in San Francisco,,2021-04-12T01:33:52.329Z,2021-12-20T20:39:20.363Z,https://api.disneyapi.dev/characters/337
+342,Aspen,Bedtime Stories,,2021-04-12T01:33:56.674Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/342
+347,Astuto,,The Lion Guard,2021-04-12T01:33:59.743Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/347
+350,Athena,Tomorrowland (film),,2021-04-12T01:34:01.400Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/350
+364,Aunt Em,Return to Oz,Once Upon a Time,2021-04-12T01:34:11.118Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/364
+380,Aviarius,,Kim Possible,2021-04-12T01:34:21.583Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/380
+384,Prince Axel,,,2021-04-12T01:34:23.830Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/384
+404,Butter Otter,,PB&J Otter,2021-04-12T01:34:35.674Z,2021-12-20T20:39:21.335Z,https://api.disneyapi.dev/characters/404
+410,Baby Panda,,Timon & Pumbaa,2021-04-12T01:34:38.957Z,2021-12-20T20:39:21.335Z,https://api.disneyapi.dev/characters/410
+440,Marta Balatico,,Mackenzie Falls,2021-04-12T01:34:56.629Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/440
+442,Mr. Baldwin,,Fish Hooks,2021-04-12T01:34:57.806Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/442
+450,Baloo,"The Jungle Book, The Jungle Book 2, Rudyard Kipling's The Jungle Book, The Jungle Book: Mowgli's Story, Mickey's Magical Christmas: Snowed in at the House of Mouse, Mickey's House of Villains, The Lion King 1½, Meet the Robinsons, The Jungle Book (2016 film)","The Mouse Factory, TaleSpin, Raw Toonage, Aladdin (TV series), Jungle Cubs, House of Mouse, DuckTales (2017 series)",2021-04-12T01:35:02.338Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/450
+469,Michael Banks,"Mary Poppins (film), Mary Poppins Returns",,2021-04-12T01:35:13.656Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/469
+474,Banshee,,Chip 'n Dale Rescue Rangers,2021-04-12T01:35:16.266Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/474
+490,Baron Blitz,,Teamo Supremo,2021-04-12T01:35:26.026Z,2021-12-20T20:39:22.406Z,https://api.disneyapi.dev/characters/490
+500,Sir Bart,The Sword in the Stone,,2021-04-12T01:35:31.366Z,2021-12-20T20:39:22.406Z,https://api.disneyapi.dev/characters/500
+529,Bernice Beachmont,,Fillmore!,2021-04-12T01:35:48.740Z,2021-12-20T20:39:22.407Z,https://api.disneyapi.dev/characters/529
+543,Beardini the Pirate Magician,,Jake and the Never Land Pirates,2021-04-12T01:35:57.020Z,2021-12-20T20:39:23.086Z,https://api.disneyapi.dev/characters/543
+566,Beheaded Knight,The Haunted Mansion (film),,2021-04-12T01:36:13.468Z,2021-12-20T20:39:23.086Z,https://api.disneyapi.dev/characters/566
+157,Alan Coleman,Freaky Friday (2003 film),,2021-04-12T01:31:58.659Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/157
+189,Alma,,Doc McStuffins,2021-04-12T01:32:19.873Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/189
+206,Captain Amelia,Treasure Planet,,2021-04-12T01:32:30.244Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/206
+207,Amelia Duckworth,,,2021-04-12T01:32:30.828Z,2021-04-12T01:32:30.828Z,https://api.disneyapi.dev/characters/207
+223,Captain Anderson,The Cat from Outer Space,,2021-04-12T01:32:40.186Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/223
+241,Erica Ange,,,2021-04-12T01:32:50.879Z,2021-12-20T20:39:19.912Z,https://api.disneyapi.dev/characters/241
+247,Angela,,Fish Hooks,2021-04-12T01:32:54.541Z,2021-12-20T20:39:19.912Z,https://api.disneyapi.dev/characters/247
+268,Anthony Biddle,The Happiest Millionaire,,2021-04-12T01:33:08.833Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/268
+278,Apaches,Savage Sam,,2021-04-12T01:33:14.678Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/278
+285,Apothecary Gary,,Amphibia,2021-04-12T01:33:18.798Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/285
+291,Aqua,,,2021-04-12T01:33:23.402Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/291
+303,Archibald Smelding,,,2021-04-12T01:33:30.627Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/303
+322,Mr. Arrow,Treasure Planet,,2021-04-12T01:33:43.750Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/322
+351,Queen Athena,"The Little Mermaid: Ariel's Beginning, The Little Mermaid (live-action film)",,2021-04-12T01:34:01.940Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/351
+112,Achilles,Hercules (film),Hercules (TV series),2021-04-12T01:31:30.547Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/112
+18,Abigail the Cow,"The Fox and the Hound, The Fox and the Hound 2",,2021-04-12T01:26:03.413Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/18
+16,Abdullah,Cheetah,,2021-04-12T01:26:02.377Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/16
+45,Admiral Boom and Mr. Binnacle,"Mary Poppins (film), Mary Poppins Returns",,2021-04-12T01:26:21.560Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/45
+7,.GIFfany,,Gravity Falls,2021-04-12T01:25:10.354Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/7
+12,90's Adventure Bear,,Pickle and Peanut,2021-04-12T01:26:00.335Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/12
+36,Candace Adams,,K.C. Undercover,2021-04-12T01:26:16.062Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/36
+139,Ahadi,"The Lion King, The Lion King (2019 film)",,2021-04-12T01:31:47.129Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/139
+152,Al Muddy Sultan,,Aladdin (TV series),2021-04-12T01:31:55.281Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/152
+181,Irwina Allen,,Chip 'n Dale Rescue Rangers,2021-04-12T01:32:15.300Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/181
+204,Ambrose,"The Robber Kitten, Mickey's Polo Team",,2021-04-12T01:32:29.083Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/204
+215,Amos,Ben and Me,,2021-04-12T01:32:35.677Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/215
+293,Arabella,,,2021-04-12T01:33:24.447Z,2021-04-12T01:33:24.447Z,https://api.disneyapi.dev/characters/293
+295,Arabella Smith,,,2021-04-12T01:33:25.599Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/295
+310,Queen Ariel,,DuckTales,2021-04-12T01:33:35.898Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/310
+327,Arthur and Cecil,,Jungle Cubs,2021-04-12T01:33:46.377Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/327
+336,Fiona Ashbury,,Fillmore!,2021-04-12T01:33:51.824Z,2021-12-20T20:39:20.363Z,https://api.disneyapi.dev/characters/336
+337,Ashcan and Pete,Homeward Bound II: Lost in San Francisco,,2021-04-12T01:33:52.329Z,2021-12-20T20:39:20.363Z,https://api.disneyapi.dev/characters/337
+342,Aspen,Bedtime Stories,,2021-04-12T01:33:56.674Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/342
+347,Astuto,,The Lion Guard,2021-04-12T01:33:59.743Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/347
+350,Athena,Tomorrowland (film),,2021-04-12T01:34:01.400Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/350
+364,Aunt Em,Return to Oz,Once Upon a Time,2021-04-12T01:34:11.118Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/364
+380,Aviarius,,Kim Possible,2021-04-12T01:34:21.583Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/380
+384,Prince Axel,,,2021-04-12T01:34:23.830Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/384
+404,Butter Otter,,PB&J Otter,2021-04-12T01:34:35.674Z,2021-12-20T20:39:21.335Z,https://api.disneyapi.dev/characters/404
+410,Baby Panda,,Timon & Pumbaa,2021-04-12T01:34:38.957Z,2021-12-20T20:39:21.335Z,https://api.disneyapi.dev/characters/410
+440,Marta Balatico,,Mackenzie Falls,2021-04-12T01:34:56.629Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/440
+442,Mr. Baldwin,,Fish Hooks,2021-04-12T01:34:57.806Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/442
+450,Baloo,"The Jungle Book, The Jungle Book 2, Rudyard Kipling's The Jungle Book, The Jungle Book: Mowgli's Story, Mickey's Magical Christmas: Snowed in at the House of Mouse, Mickey's House of Villains, The Lion King 1½, Meet the Robinsons, The Jungle Book (2016 film)","The Mouse Factory, TaleSpin, Raw Toonage, Aladdin (TV series), Jungle Cubs, House of Mouse, DuckTales (2017 series)",2021-04-12T01:35:02.338Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/450
+469,Michael Banks,"Mary Poppins (film), Mary Poppins Returns",,2021-04-12T01:35:13.656Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/469
+474,Banshee,,Chip 'n Dale Rescue Rangers,2021-04-12T01:35:16.266Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/474
+490,Baron Blitz,,Teamo Supremo,2021-04-12T01:35:26.026Z,2021-12-20T20:39:22.406Z,https://api.disneyapi.dev/characters/490
+500,Sir Bart,The Sword in the Stone,,2021-04-12T01:35:31.366Z,2021-12-20T20:39:22.406Z,https://api.disneyapi.dev/characters/500
+529,Bernice Beachmont,,Fillmore!,2021-04-12T01:35:48.740Z,2021-12-20T20:39:22.407Z,https://api.disneyapi.dev/characters/529
+543,Beardini the Pirate Magician,,Jake and the Never Land Pirates,2021-04-12T01:35:57.020Z,2021-12-20T20:39:23.086Z,https://api.disneyapi.dev/characters/543
+566,Beheaded Knight,The Haunted Mansion (film),,2021-04-12T01:36:13.468Z,2021-12-20T20:39:23.086Z,https://api.disneyapi.dev/characters/566
+157,Alan Coleman,Freaky Friday (2003 film),,2021-04-12T01:31:58.659Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/157
+189,Alma,,Doc McStuffins,2021-04-12T01:32:19.873Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/189
+206,Captain Amelia,Treasure Planet,,2021-04-12T01:32:30.244Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/206
+207,Amelia Duckworth,,,2021-04-12T01:32:30.828Z,2021-04-12T01:32:30.828Z,https://api.disneyapi.dev/characters/207
+223,Captain Anderson,The Cat from Outer Space,,2021-04-12T01:32:40.186Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/223
+241,Erica Ange,,,2021-04-12T01:32:50.879Z,2021-12-20T20:39:19.912Z,https://api.disneyapi.dev/characters/241
+247,Angela,,Fish Hooks,2021-04-12T01:32:54.541Z,2021-12-20T20:39:19.912Z,https://api.disneyapi.dev/characters/247
+268,Anthony Biddle,The Happiest Millionaire,,2021-04-12T01:33:08.833Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/268
+278,Apaches,Savage Sam,,2021-04-12T01:33:14.678Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/278
+285,Apothecary Gary,,Amphibia,2021-04-12T01:33:18.798Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/285
+291,Aqua,,,2021-04-12T01:33:23.402Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/291
+303,Archibald Smelding,,,2021-04-12T01:33:30.627Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/303
+322,Mr. Arrow,Treasure Planet,,2021-04-12T01:33:43.750Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/322
+351,Queen Athena,"The Little Mermaid: Ariel's Beginning, The Little Mermaid (live-action film)",,2021-04-12T01:34:01.940Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/351
+112,Achilles,Hercules (film),Hercules (TV series),2021-04-12T01:31:30.547Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/112
+18,Abigail the Cow,"The Fox and the Hound, The Fox and the Hound 2",,2021-04-12T01:26:03.413Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/18
+16,Abdullah,Cheetah,,2021-04-12T01:26:02.377Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/16
+45,Admiral Boom and Mr. Binnacle,"Mary Poppins (film), Mary Poppins Returns",,2021-04-12T01:26:21.560Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/45
+7,.GIFfany,,Gravity Falls,2021-04-12T01:25:10.354Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/7
+12,90's Adventure Bear,,Pickle and Peanut,2021-04-12T01:26:00.335Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/12
+36,Candace Adams,,K.C. Undercover,2021-04-12T01:26:16.062Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/36
+139,Ahadi,"The Lion King, The Lion King (2019 film)",,2021-04-12T01:31:47.129Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/139
+152,Al Muddy Sultan,,Aladdin (TV series),2021-04-12T01:31:55.281Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/152
+181,Irwina Allen,,Chip 'n Dale Rescue Rangers,2021-04-12T01:32:15.300Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/181
+204,Ambrose,"The Robber Kitten, Mickey's Polo Team",,2021-04-12T01:32:29.083Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/204
+215,Amos,Ben and Me,,2021-04-12T01:32:35.677Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/215
+293,Arabella,,,2021-04-12T01:33:24.447Z,2021-04-12T01:33:24.447Z,https://api.disneyapi.dev/characters/293
+295,Arabella Smith,,,2021-04-12T01:33:25.599Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/295
+310,Queen Ariel,,DuckTales,2021-04-12T01:33:35.898Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/310
+327,Arthur and Cecil,,Jungle Cubs,2021-04-12T01:33:46.377Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/327
+336,Fiona Ashbury,,Fillmore!,2021-04-12T01:33:51.824Z,2021-12-20T20:39:20.363Z,https://api.disneyapi.dev/characters/336
+337,Ashcan and Pete,Homeward Bound II: Lost in San Francisco,,2021-04-12T01:33:52.329Z,2021-12-20T20:39:20.363Z,https://api.disneyapi.dev/characters/337
+342,Aspen,Bedtime Stories,,2021-04-12T01:33:56.674Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/342
+347,Astuto,,The Lion Guard,2021-04-12T01:33:59.743Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/347
+350,Athena,Tomorrowland (film),,2021-04-12T01:34:01.400Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/350
+364,Aunt Em,Return to Oz,Once Upon a Time,2021-04-12T01:34:11.118Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/364
+380,Aviarius,,Kim Possible,2021-04-12T01:34:21.583Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/380
+384,Prince Axel,,,2021-04-12T01:34:23.830Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/384
+404,Butter Otter,,PB&J Otter,2021-04-12T01:34:35.674Z,2021-12-20T20:39:21.335Z,https://api.disneyapi.dev/characters/404
+410,Baby Panda,,Timon & Pumbaa,2021-04-12T01:34:38.957Z,2021-12-20T20:39:21.335Z,https://api.disneyapi.dev/characters/410
+440,Marta Balatico,,Mackenzie Falls,2021-04-12T01:34:56.629Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/440
+442,Mr. Baldwin,,Fish Hooks,2021-04-12T01:34:57.806Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/442
+450,Baloo,"The Jungle Book, The Jungle Book 2, Rudyard Kipling's The Jungle Book, The Jungle Book: Mowgli's Story, Mickey's Magical Christmas: Snowed in at the House of Mouse, Mickey's House of Villains, The Lion King 1½, Meet the Robinsons, The Jungle Book (2016 film)","The Mouse Factory, TaleSpin, Raw Toonage, Aladdin (TV series), Jungle Cubs, House of Mouse, DuckTales (2017 series)",2021-04-12T01:35:02.338Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/450
+469,Michael Banks,"Mary Poppins (film), Mary Poppins Returns",,2021-04-12T01:35:13.656Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/469
+474,Banshee,,Chip 'n Dale Rescue Rangers,2021-04-12T01:35:16.266Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/474
+490,Baron Blitz,,Teamo Supremo,2021-04-12T01:35:26.026Z,2021-12-20T20:39:22.406Z,https://api.disneyapi.dev/characters/490
+500,Sir Bart,The Sword in the Stone,,2021-04-12T01:35:31.366Z,2021-12-20T20:39:22.406Z,https://api.disneyapi.dev/characters/500
+529,Bernice Beachmont,,Fillmore!,2021-04-12T01:35:48.740Z,2021-12-20T20:39:22.407Z,https://api.disneyapi.dev/characters/529
+543,Beardini the Pirate Magician,,Jake and the Never Land Pirates,2021-04-12T01:35:57.020Z,2021-12-20T20:39:23.086Z,https://api.disneyapi.dev/characters/543
+566,Beheaded Knight,The Haunted Mansion (film),,2021-04-12T01:36:13.468Z,2021-12-20T20:39:23.086Z,https://api.disneyapi.dev/characters/566
+157,Alan Coleman,Freaky Friday (2003 film),,2021-04-12T01:31:58.659Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/157
+189,Alma,,Doc McStuffins,2021-04-12T01:32:19.873Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/189
+206,Captain Amelia,Treasure Planet,,2021-04-12T01:32:30.244Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/206
+207,Amelia Duckworth,,,2021-04-12T01:32:30.828Z,2021-04-12T01:32:30.828Z,https://api.disneyapi.dev/characters/207
+223,Captain Anderson,The Cat from Outer Space,,2021-04-12T01:32:40.186Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/223
+241,Erica Ange,,,2021-04-12T01:32:50.879Z,2021-12-20T20:39:19.912Z,https://api.disneyapi.dev/characters/241
+247,Angela,,Fish Hooks,2021-04-12T01:32:54.541Z,2021-12-20T20:39:19.912Z,https://api.disneyapi.dev/characters/247
+268,Anthony Biddle,The Happiest Millionaire,,2021-04-12T01:33:08.833Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/268
+278,Apaches,Savage Sam,,2021-04-12T01:33:14.678Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/278
+285,Apothecary Gary,,Amphibia,2021-04-12T01:33:18.798Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/285
+291,Aqua,,,2021-04-12T01:33:23.402Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/291
+303,Archibald Smelding,,,2021-04-12T01:33:30.627Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/303
+322,Mr. Arrow,Treasure Planet,,2021-04-12T01:33:43.750Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/322
+351,Queen Athena,"The Little Mermaid: Ariel's Beginning, The Little Mermaid (live-action film)",,2021-04-12T01:34:01.940Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/351
+112,Achilles,Hercules (film),Hercules (TV series),2021-04-12T01:31:30.547Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/112
+18,Abigail the Cow,"The Fox and the Hound, The Fox and the Hound 2",,2021-04-12T01:26:03.413Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/18
+16,Abdullah,Cheetah,,2021-04-12T01:26:02.377Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/16
+45,Admiral Boom and Mr. Binnacle,"Mary Poppins (film), Mary Poppins Returns",,2021-04-12T01:26:21.560Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/45
+7,.GIFfany,,Gravity Falls,2021-04-12T01:25:10.354Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/7
+12,90's Adventure Bear,,Pickle and Peanut,2021-04-12T01:26:00.335Z,2021-12-20T20:39:18.032Z,https://api.disneyapi.dev/characters/12
+36,Candace Adams,,K.C. Undercover,2021-04-12T01:26:16.062Z,2021-12-20T20:39:18.033Z,https://api.disneyapi.dev/characters/36
+139,Ahadi,"The Lion King, The Lion King (2019 film)",,2021-04-12T01:31:47.129Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/139
+152,Al Muddy Sultan,,Aladdin (TV series),2021-04-12T01:31:55.281Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/152
+181,Irwina Allen,,Chip 'n Dale Rescue Rangers,2021-04-12T01:32:15.300Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/181
+204,Ambrose,"The Robber Kitten, Mickey's Polo Team",,2021-04-12T01:32:29.083Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/204
+215,Amos,Ben and Me,,2021-04-12T01:32:35.677Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/215
+293,Arabella,,,2021-04-12T01:33:24.447Z,2021-04-12T01:33:24.447Z,https://api.disneyapi.dev/characters/293
+295,Arabella Smith,,,2021-04-12T01:33:25.599Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/295
+310,Queen Ariel,,DuckTales,2021-04-12T01:33:35.898Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/310
+327,Arthur and Cecil,,Jungle Cubs,2021-04-12T01:33:46.377Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/327
+336,Fiona Ashbury,,Fillmore!,2021-04-12T01:33:51.824Z,2021-12-20T20:39:20.363Z,https://api.disneyapi.dev/characters/336
+337,Ashcan and Pete,Homeward Bound II: Lost in San Francisco,,2021-04-12T01:33:52.329Z,2021-12-20T20:39:20.363Z,https://api.disneyapi.dev/characters/337
+342,Aspen,Bedtime Stories,,2021-04-12T01:33:56.674Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/342
+347,Astuto,,The Lion Guard,2021-04-12T01:33:59.743Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/347
+350,Athena,Tomorrowland (film),,2021-04-12T01:34:01.400Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/350
+364,Aunt Em,Return to Oz,Once Upon a Time,2021-04-12T01:34:11.118Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/364
+380,Aviarius,,Kim Possible,2021-04-12T01:34:21.583Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/380
+384,Prince Axel,,,2021-04-12T01:34:23.830Z,2021-12-20T20:39:20.873Z,https://api.disneyapi.dev/characters/384
+404,Butter Otter,,PB&J Otter,2021-04-12T01:34:35.674Z,2021-12-20T20:39:21.335Z,https://api.disneyapi.dev/characters/404
+410,Baby Panda,,Timon & Pumbaa,2021-04-12T01:34:38.957Z,2021-12-20T20:39:21.335Z,https://api.disneyapi.dev/characters/410
+440,Marta Balatico,,Mackenzie Falls,2021-04-12T01:34:56.629Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/440
+442,Mr. Baldwin,,Fish Hooks,2021-04-12T01:34:57.806Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/442
+450,Baloo,"The Jungle Book, The Jungle Book 2, Rudyard Kipling's The Jungle Book, The Jungle Book: Mowgli's Story, Mickey's Magical Christmas: Snowed in at the House of Mouse, Mickey's House of Villains, The Lion King 1½, Meet the Robinsons, The Jungle Book (2016 film)","The Mouse Factory, TaleSpin, Raw Toonage, Aladdin (TV series), Jungle Cubs, House of Mouse, DuckTales (2017 series)",2021-04-12T01:35:02.338Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/450
+469,Michael Banks,"Mary Poppins (film), Mary Poppins Returns",,2021-04-12T01:35:13.656Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/469
+474,Banshee,,Chip 'n Dale Rescue Rangers,2021-04-12T01:35:16.266Z,2021-12-20T20:39:21.786Z,https://api.disneyapi.dev/characters/474
+490,Baron Blitz,,Teamo Supremo,2021-04-12T01:35:26.026Z,2021-12-20T20:39:22.406Z,https://api.disneyapi.dev/characters/490
+500,Sir Bart,The Sword in the Stone,,2021-04-12T01:35:31.366Z,2021-12-20T20:39:22.406Z,https://api.disneyapi.dev/characters/500
+529,Bernice Beachmont,,Fillmore!,2021-04-12T01:35:48.740Z,2021-12-20T20:39:22.407Z,https://api.disneyapi.dev/characters/529
+543,Beardini the Pirate Magician,,Jake and the Never Land Pirates,2021-04-12T01:35:57.020Z,2021-12-20T20:39:23.086Z,https://api.disneyapi.dev/characters/543
+566,Beheaded Knight,The Haunted Mansion (film),,2021-04-12T01:36:13.468Z,2021-12-20T20:39:23.086Z,https://api.disneyapi.dev/characters/566
+157,Alan Coleman,Freaky Friday (2003 film),,2021-04-12T01:31:58.659Z,2021-12-20T20:39:18.877Z,https://api.disneyapi.dev/characters/157
+189,Alma,,Doc McStuffins,2021-04-12T01:32:19.873Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/189
+206,Captain Amelia,Treasure Planet,,2021-04-12T01:32:30.244Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/206
+207,Amelia Duckworth,,,2021-04-12T01:32:30.828Z,2021-04-12T01:32:30.828Z,https://api.disneyapi.dev/characters/207
+223,Captain Anderson,The Cat from Outer Space,,2021-04-12T01:32:40.186Z,2021-12-20T20:39:19.408Z,https://api.disneyapi.dev/characters/223
+241,Erica Ange,,,2021-04-12T01:32:50.879Z,2021-12-20T20:39:19.912Z,https://api.disneyapi.dev/characters/241
+247,Angela,,Fish Hooks,2021-04-12T01:32:54.541Z,2021-12-20T20:39:19.912Z,https://api.disneyapi.dev/characters/247
+268,Anthony Biddle,The Happiest Millionaire,,2021-04-12T01:33:08.833Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/268
+278,Apaches,Savage Sam,,2021-04-12T01:33:14.678Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/278
+285,Apothecary Gary,,Amphibia,2021-04-12T01:33:18.798Z,2021-12-20T20:39:19.913Z,https://api.disneyapi.dev/characters/285
+291,Aqua,,,2021-04-12T01:33:23.402Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/291
+303,Archibald Smelding,,,2021-04-12T01:33:30.627Z,2021-12-20T20:39:20.361Z,https://api.disneyapi.dev/characters/303
+322,Mr. Arrow,Treasure Planet,,2021-04-12T01:33:43.750Z,2021-12-20T20:39:20.362Z,https://api.disneyapi.dev/characters/322
+351,Queen Athena,"The Little Mermaid: Ariel's Beginning, The Little Mermaid (live-action film)",,2021-04-12T01:34:01.940Z,2021-12-20T20:39:20.872Z,https://api.disneyapi.dev/characters/351

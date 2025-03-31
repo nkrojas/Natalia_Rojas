@@ -1,0 +1,8 @@
+Columnas en dataset 1: id, name, films, tvShows
+Registros en dataset 1: 500
+Columnas en dataset 2: id, createdAt, updatedAt, url
+Registros en dataset 2: 50
+Total de columnas en el dataset enriquecido: id, name, films, tvShows, createdAt, updatedAt, url (7)
+Total de registros en el dataset enriquecido: 500
+Registros coincidentes en el cruce: 500
+Diferencias detectadas: 0
