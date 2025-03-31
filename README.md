@@ -22,3 +22,4 @@ Paso 4:
 Ejecución de Scripts, en el terminal ejecutar las dos líneas de código
 python src/ibgd/ingesta.py
 python src/ibgd/cleaning.py
+python src/ibgd/transformacion.py

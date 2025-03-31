@@ -31,6 +31,8 @@ jobs:
         run: python src/ibgd/ingesta.py
       - name: paso6 - Ejecutar cleaning
         run: python src/ibgd/cleaning.py
+      - name: paso7 - Ejecutar transformacion
+        run: python src/ibgd/transformacion.py
 
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
