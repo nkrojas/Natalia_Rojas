@@ -1,4 +1,4 @@
 Total registros obtenidos del API: 50
 Total registros insertados en SQLite: 50
-Total registros en CSV: 500
+Total registros en CSV: 550
 Los datos fueron almacenados correctamente.
